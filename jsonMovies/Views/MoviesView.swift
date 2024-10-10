@@ -1,8 +1,4 @@
-//
-//  MoviesView.swift
-//  JsonMovies
-//
-//  Created by Jorge Maldonado Borbón on 06/09/22.
+//  Created by Marcos Manzo.
 //
 
 import SwiftUI
